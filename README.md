@@ -33,10 +33,10 @@ The system is split into three primary components:
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](assets/dashboard_overview.jpg)
+![Dashboard Overview](assets/dashboard_overview.png)
 
 ### Prediction Results
-![Prediction Results](assets/prediction_results.jpg)
+![Prediction Results](assets/prediction_results.png)
 
 ---
 
