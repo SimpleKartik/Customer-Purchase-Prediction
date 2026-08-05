@@ -38,8 +38,8 @@ def main():
     # Create the pipeline with the model
     pipeline = Pipeline(steps=[
         ('preprocessor', preprocessor),
-        # Using n_jobs=-1 to parallelize training across CPU cores
-        ('classifier', RandomForestClassifier(n_estimators=100, random_state=42, n_jobs=-1))
+        # Using n_estimators=20 and max_depth=15 to keep the model size small for cloud deployment
+        ('classifier', RandomForestClassifier(n_estimators=20, max_depth=15, random_state=42, n_jobs=-1))
     ])
     
     # Train/Test Split (80/20)
