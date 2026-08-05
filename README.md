@@ -95,7 +95,15 @@ source venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
+```
 
+> **⚠️ Important Data Requirement**
+> The dataset is excluded from version control due to its size. Before training the model:
+> 1. Download the dataset from [Google Drive](https://drive.google.com/file/d/1wEVXQgnPnJgFhW0mH2clhOZEj5m_e16Z/view?usp=drive_link).
+> 2. Create a folder named `Dataset` in the root directory.
+> 3. Place the downloaded file inside the `Dataset` folder and ensure it is exactly named `customerData_500k.csv`.
+
+```bash
 # Train the machine learning model (Generates model.pkl)
 python train_pipeline.py
 
