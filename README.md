@@ -1,6 +1,6 @@
 #  AI-Based Customer Purchase Prediction System
 
-## 🔗 Quick Links
+##  Quick Links
 - 📄 **[Project Report](https://drive.google.com/file/d/1VrdOd4pRLtrtyt3dLYV_OYqxEr4qyb26/view?usp=drive_link)**
 - 📊 **[Presentation (PPT)](https://docs.google.com/presentation/d/1_N7V9QvQXTnNHbT6GIMd78hHBd3DBHoI/edit?usp=sharing&ouid=115998335838220929130&rtpof=true&sd=true)**
 - 🚀 **[Live Application (Demo)](https://customer-purchase-prediction-seven.vercel.app/)**
@@ -177,7 +177,7 @@ The backend exposes an interactive Swagger UI available at `http://127.0.0.1:800
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - **Database Integration**: Implement PostgreSQL or MongoDB to persist historical user predictions and track model drift over time.
 - **Advanced Model Deployment**: Experiment with Gradient Boosting frameworks like `LightGBM` or `XGBoost` to further optimize accuracy.
