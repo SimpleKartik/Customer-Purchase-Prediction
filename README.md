@@ -32,11 +32,11 @@ The system is split into three primary components:
 
 ## 📸 Screenshots
 
-*(Replace the placeholders below with actual screenshots of your application)*
+### Dashboard Overview
+![Dashboard Overview](assets/dashboard_overview.jpg)
 
-| Dashboard Overview | Prediction Results |
-| :---: | :---: |
-| ![Dashboard Overview Placeholder](https://via.placeholder.com/600x400?text=Dashboard+Overview+Screenshot) | ![Prediction Results Placeholder](https://via.placeholder.com/600x400?text=Prediction+Results+Screenshot) |
+### Prediction Results
+![Prediction Results](assets/prediction_results.jpg)
 
 ---
 
