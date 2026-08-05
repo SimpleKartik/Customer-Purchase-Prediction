@@ -1,15 +1,11 @@
-# 🛒 AI-Based Customer Purchase Prediction System
+#  AI-Based Customer Purchase Prediction System
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python](https://img.shields.io/badge/python-3.9%2B-blue)
-![React](https://img.shields.io/badge/react-18.2%2B-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-green)
 
 A full-stack machine learning application designed to predict whether a customer will make a purchase based on demographic, behavioral, and historical data. The project utilizes a robust **RandomForest** machine learning pipeline hosted on a high-performance **FastAPI** backend, connected to a modern, responsive **React + Vite** frontend.
 
 ---
 
-## 🏗️ Project Architecture
+##  Project Architecture
 
 The system is split into three primary components:
 
@@ -30,7 +26,7 @@ The system is split into three primary components:
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Dashboard Overview
 ![Dashboard Overview](assets/dashboard_overview.png)
@@ -40,7 +36,7 @@ The system is split into three primary components:
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 
 ```text
 Customer Purchase Prediction/
@@ -66,7 +62,7 @@ Customer Purchase Prediction/
 
 ---
 
-## ⚙️ Requirements
+##  Requirements
 
 Before beginning, ensure you have the following installed on your system:
 - **Python** (v3.9 or higher)
@@ -74,7 +70,7 @@ Before beginning, ensure you have the following installed on your system:
 
 ---
 
-## 🚀 Installation Guide
+##  Installation Guide
 
 ### 1. Clone the Repository
 ```bash
@@ -97,7 +93,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-> **⚠️ Important Data Requirement**
+> ** Important Data Requirement**
 > The dataset is excluded from version control due to its size. Before training the model:
 > 1. Download the dataset from [Google Drive](https://drive.google.com/file/d/1wEVXQgnPnJgFhW0mH2clhOZEj5m_e16Z/view?usp=drive_link).
 > 2. Create a folder named `Dataset` in the root directory.
@@ -128,7 +124,7 @@ npm run dev
 
 ---
 
-## 🔌 API Documentation
+##  API Documentation
 
 The backend exposes an interactive Swagger UI available at `http://127.0.0.1:8000/docs`. 
 
