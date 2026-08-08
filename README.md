@@ -2,7 +2,7 @@
 
 ##  Quick Links
 -  **[Project Report](https://drive.google.com/file/d/1VrdOd4pRLtrtyt3dLYV_OYqxEr4qyb26/view?usp=drive_link)**
--  **[Presentation (PPT)](https://docs.google.com/presentation/d/11Ml1BwBUAEO_BRQaflNcMh6-Wqa6afUT/edit?usp=sharing&ouid=115998335838220929130&rtpof=true&sd=true)**
+-  **[Presentation (PPT)](https://docs.google.com/presentation/d/166_NB1PTIivezsP9JJ9dSmMlQZb-RND8/edit?usp=sharing&ouid=115998335838220929130&rtpof=true&sd=true)**
 -  **[Live Application (Demo)](https://customer-purchase-prediction-seven.vercel.app/)**
 
 A full-stack machine learning application designed to predict whether a customer will make a purchase based on demographic, behavioral, and historical data. The project utilizes a robust **RandomForest** machine learning pipeline hosted on a high-performance **FastAPI** backend, connected to a modern, responsive **React + Vite** frontend.
